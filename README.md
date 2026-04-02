@@ -74,7 +74,7 @@ The demo shows how TrustLens evaluates a weak AI answer, highlights risk signals
 
 | Home Screen | Low Trust Example | High Trust Example |
 |------------|------------------|------------------|
-| ![](assets/home.jpeg) | ![](assets/medium.jpeg) | ![](assets/high.jpeg) |
+| ![Home Screen](assets/home.jpeg) | ![Low Trust Result](assets/medium.jpeg) | ![High Trust Result](assets/high.jpeg) |
 
 ---
 
