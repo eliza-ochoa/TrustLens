@@ -127,24 +127,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Screenshots
-
-### Home Screen
-![Home Screen](assets/home.jpeg)
-
-### Low Trust Example
-![High Trust Result](assets/high.jpeg)
-
-### High Trust Example
-![Medium Trust Result](assets/medium.jpeg)
-
-## Demo
-
-🎥 Demo Video: (add your link here)  
-🌐 Live App (optional): (add Streamlit link if deployed)
-
-The demo shows how TrustLens evaluates a weak AI answer, highlights risk signals, and generates a safer rewrite in seconds.
-
 ## Future Improvements
 
 - Sentence-level evidence highlighting
