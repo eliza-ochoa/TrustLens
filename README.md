@@ -83,7 +83,7 @@ streamlit run app.py
 ## Demo
 
 🎥 Demo Video: (add your link here)  
-🌐 Live App (optional): (add Streamlit link if deployed)
+🌐 Live App: ([TrustLens](https://trustlens-tano.streamlit.app/))
 
 The demo shows how TrustLens evaluates a weak AI answer, highlights risk signals, and generates a safer rewrite in seconds.
 
