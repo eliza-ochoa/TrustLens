@@ -11,7 +11,7 @@ TrustLens helps students evaluate whether an AI-generated answer is safe to subm
 ## 🔗 Quick Access
 
 🌐 Live App: https://trustlens-tano.streamlit.app/  
-🎥 Demo Video: (assets/TrustLensVideo.webm)  
+🎥 Demo Video: (https://www.youtube.com/watch?v=UFmjlNo5Mrw)  
 📦 Repository: https://github.com/eliza-ochoa/TrustLens  
 
 ---
@@ -63,8 +63,11 @@ TrustLens focuses on fast, transparent evaluation rather than content generation
 
 ## 🧪 Demo
 
-🎥 Demo Video: (assets/TrustLensVideo.webm)  
+🎥 Demo Video: (https://www.youtube.com/watch?v=UFmjlNo5Mrw)  
 🌐 Live App: https://trustlens-tano.streamlit.app/  
+## 🎥 Demo Preview
+
+[![Watch the demo](screenshots/home.png)](https://www.youtube.com/watch?v=UFmjlNo5Mrw)
 
 The demo shows how TrustLens evaluates a weak AI answer, highlights risk signals, and generates a safer rewrite in seconds.
 
