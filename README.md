@@ -125,9 +125,43 @@ TrustLens will:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
+## Screenshots
+
+### Home Screen
+![Home Screen](assets/home.jpeg)
+
+### Low Trust Example
+![High Trust Result](assets/high.jpeg)
+
+### High Trust Example
+![Medium Trust Result](assets/medium.jpeg)
+
+## Demo
+
+🎥 Demo Video: (add your link here)  
+🌐 Live App (optional): (add Streamlit link if deployed)
+
+The demo shows how TrustLens evaluates a weak AI answer, highlights risk signals, and generates a safer rewrite in seconds.
+
+## Future Improvements
+
+- Sentence-level evidence highlighting
+- Optional file upload for source text
+- Exportable review summary for classroom use
+- More sample scenarios for live demos
+
+## Who It's For
+
+- Students using AI for assignments or research
+- Anyone who wants to validate AI-generated content before relying on it
+- Users interested in responsible and transparent AI usage
+
+TrustLens demonstrates how responsible AI principles can be embedded directly into user-facing tools.
 
 ---
-TANO Research
-Trust • Accuracy • Neutrality • Organization • Transparency
-Exploring Possibilities Everywhere
+
+**TANO Research**  
+Trust • Accuracy • Neutrality • Organization • Transparency  
+“Exploring Possibilities Everywhere”
